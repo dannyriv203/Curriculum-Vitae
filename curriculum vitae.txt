@@ -1,0 +1,110 @@
+<html>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <head><p><b>CURRICULUM VITAE</b></p></head>
+    <style>
+        head{
+            text-align: center;
+            max-width: 800px;
+            padding: 20px;
+        }
+        body{
+            background-color: rgb(247, 238, 225);
+        }
+        header {
+           text-align: right;
+            max-width: 600px;
+            padding: 60px;
+            background-color: #fff;
+            box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+        }
+
+       section {
+            text-align: left;
+            max-width: 3000px;
+            padding: 50px;
+            background-color: #fff;
+            box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+        }
+        .container {
+            display: flex;
+        }
+
+        .column {
+            flex: 800;
+            padding: 50px;
+            border: 1px solid #ccc;
+        }
+    </style>
+   <body>
+    <header>
+                   <p><img src="C:\Users\Galo\Documents\deber_Danny.R\chopper.png" style="float: left ;"></p>
+                    <p>Danny Mauricio Rivadeneira Suarez</p>
+                    <p>Estudiante Universitario</p>
+                    <b>Nacionalidad:</b> Ecuatoriano
+                    </header> 
+
+   <p><section class="left">
+   <div class="container">
+  <div class="column text-align:right;">
+   <b>CONTACTO</b>
+   <p><img src="C:\Users\Galo\Documents\deber_Danny.R\icon_phone.png"> <a link href="https://web.whatsapp.com/"><b>+593 095 346 2345</b></a></p>
+   <p><img src="C:\Users\Galo\Documents\deber_Danny.R\icon_ubicacion.png"> Guayaquil, Ecuador </p>
+   <p><img src="C:\Users\Galo\Documents\deber_Danny.R\icon_face.png">   <a link href="https://www.facebook.com/">https://www.facebook.com/</a></p>
+   <p><img src="C:\Users\Galo\Documents\deber_Danny.R\icon_email.png">  <a link href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">dansuaric2003lol@gmail.com</a></p>
+
+
+
+  <p><b>IDIOMAS</b></p>
+   <p>Español</p>
+   <p>Ingles</p>
+
+
+
+   <p><b>HABILIDADES</b></p>
+   <p><li></li></p>
+   <p><li></li></p>
+   <p><li></li></p>
+   <p><li></li></p>
+
+</div>
+</div>
+</section></p>
+
+
+
+<p><section>
+    <div class="container">
+    <div class="column text-align:right;">
+  <b> PERFIL PROFESIONAL </b>
+<p>hola me gusta one piece</p>
+
+
+  <p><b>EDUCACION Y FORMACION</b></p>
+  <p><li></li></p>
+  <p><li></li></p>
+  <p><li></li></p>
+  <p><li></li></p>
+
+
+  <p><b>EXPERIENCIA LABORAL</p></b> 
+  <p></p><li></li></p>
+  <p><li></li></p>
+  <p><li></li></p>
+  <p><li></li></p>
+
+
+
+  <p><b>AFICIONES Y INTERESES</p></b> 
+  <p></p><li></li></p>
+  <p><li></li></p>
+  
+
+
+   <div>
+  </div>
+ </section></p>
+   </body>
+
+</html>

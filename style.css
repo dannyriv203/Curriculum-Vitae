@@ -1,0 +1,14 @@
+.contenedor {
+
+
+display:flex
+justify-content left;
+
+}
+
+.column {
+    background-color: rgba(224, 247, 248, 0.959);
+    padding: 30px;
+    margin: 0 5px;
+}
+
